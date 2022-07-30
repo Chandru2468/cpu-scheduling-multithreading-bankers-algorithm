@@ -9,3 +9,6 @@ git status -s
 git add *.txt
 git commit -m "my first commit"
 git rm text2.txt
+mv main.js
+git add main.js
+git mv main.js text2.txt
