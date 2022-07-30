@@ -8,3 +8,4 @@ echo hello>text1.txt
 git status -s
 git add *.txt
 git commit -m "my first commit"
+git rm text2.txt
