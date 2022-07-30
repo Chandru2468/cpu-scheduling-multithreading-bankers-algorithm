@@ -6,3 +6,5 @@ git config --global core.editor "code --wait"
 git config --global -e
 echo hello>text1.txt
 git status -s
+git add *.txt
+git commit -m "my first commit"
