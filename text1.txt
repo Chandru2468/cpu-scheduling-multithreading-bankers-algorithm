@@ -12,3 +12,4 @@ git rm text2.txt
 mv main.js
 git add main.js
 git mv main.js text2.txt
+/c/Users/Chandru/.ssh/id_ed25519): gitbashfirstkey
